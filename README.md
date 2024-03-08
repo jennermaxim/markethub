@@ -1,1 +1,10 @@
 # Entrepreneurship and Small business Project
+
+## Front-end Development:
+### - Aleksandra Bozic
+### - Majok Lual Magot
+
+## Back-end Development:
+### - <a href="https://github.com/jennermaxim">Kagheni Jenner Maximillien</a>
+### - Habineza Ngabo Yves Damas
+### - Mulenzi Shema Dominic
