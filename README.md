@@ -5,6 +5,6 @@
 ### - Majok Lual Magot
 
 ## Back-end Development:
-### - <a href="https://github.com/jennermaxim">Kagheni Jenner Maximillien</a>
+### - <a href="https://github.com/jennermaxim" tagert="_blank">Kagheni Jenner Maximillien</a>
 ### - Habineza Ngabo Yves Damas
 ### - Mulenzi Shema Dominic
