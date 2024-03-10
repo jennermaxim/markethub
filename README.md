@@ -3,6 +3,7 @@
 ## Front-end Development:
 ### - Aleksandra Bozic
 ### - Majok Lual Magot
+### - Mutchembe Bamo
 
 ## Back-end Development:
 ### - <a href="https://github.com/jennermaxim" tagert="_blank">Kagheni Jenner Maximillien</a>
