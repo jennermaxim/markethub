@@ -5,6 +5,7 @@
 ### - Majok Lual Magot
 ### - Mutchembe Bamo
 ### - Isingoma Kenneth
+### - Ngaboyeka Bujiriri
 
 
 ## Back-end Development:
