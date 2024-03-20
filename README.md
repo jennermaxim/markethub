@@ -6,7 +6,7 @@
 ### - Mutchembe Bamo
 ### - Isingoma Kenneth
 ### - Ngaboyeka Bujiriri
-
+### - Muranga Aaron
 
 ## Back-end Development:
 ### - <a href="https://github.com/jennermaxim" tagert="_blank">Kagheni Jenner Maximillien</a>
