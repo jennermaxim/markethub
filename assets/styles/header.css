@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+}
+
+.header .navbar{
+    background-color: #010101;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    align-items: center;
+}
+
+.header .navbar h1{
+    margin: 0;
+    padding: 0;
+}
+
+.header .navbar .right-nav a{
+    color: #fff;
+    text-decoration: none;
+    background-color: blue;
+    padding: 10px;
+}
