@@ -1,32 +1,34 @@
 let send = document.querySelector(".send");
 let close = document.querySelector(".close");
+let closeFailed = document.querySelector(".close-failed");
 let model = document.querySelector(".model");
+let failed = document.querySelector(".failed");
 
 window.onload = function () {
     document.getElementById('contact-form').addEventListener('submit', function (event) {
         event.preventDefault();
-        // these IDs from the previous steps
         emailjs.sendForm('service_sh26x5v', 'template_x7928zo', this)
             .then(() => {
-                // console.log('SUCCESS!');
                 model.classList.add("open");
                 this.reset();
                 setTimeout(() => {
                     model.classList.remove("open");
                 }, 15000);
             }, (error) => {
+                failed.classList.add("open");
+                setTimeout(() => {
+                    failed.classList.remove("open");
+                }, 15000);
                 console.log('FAILED...', error);
             });
     });
 }
 
-// send.onclick = () =>{
-//     model.classList.add("open");
-// }
+
 close.onclick = () => {
     model.classList.remove("open");
 }
 
-// model.onclick = () => {
-//     model.style.display = 'none';
-// }
+closeFailed.onclick = () =>{
+    failed.classList.remove("open");
+}

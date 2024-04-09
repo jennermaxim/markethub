@@ -35,4 +35,12 @@
         <button class="close">Close</button>
     </div>
 </div>
+
+<div class="failed">
+    <div class="content">
+        <h2 class="title">Failed to Contact SalonHub</h2>
+        <p>Please try again later...!</p>
+        <button class="close-failed">Close</button>
+    </div>
+</div>
 <?php include 'includes/footer.php'; ?>
