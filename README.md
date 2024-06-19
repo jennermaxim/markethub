@@ -2,8 +2,6 @@
 
 ## Front-end Development:
 ### - Aleksandra Bozic
-### - Majok Lual Magot
-### - Mutchembe Bamo
 ### - Isingoma Kenneth
 ### - Ngaboyeka Bujiriri
 ### - Muranga Aaron
